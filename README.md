@@ -28,7 +28,9 @@
 
 <img src="https://raw.githubusercontent.com/ybounite/ybounite/output/snake.svg" alt="Snake animation" />
 
-###
+<h3 align="left">🛠 Language and tools</h3>
+
+### 
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="c logo"  />
