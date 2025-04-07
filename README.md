@@ -1,16 +1,22 @@
 ## Hi there 👋
+<div align="center">
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/hu9xj9UtxpoY3oytsh/giphy.gif" width="100"/>
+</div>
 
-<!--
-**ybounite/ybounite** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm ```youssef bounite```!
 
-Here are some ideas to get you started:
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+<img src="computer.gif" align="right" width="400">
+
+ ## ```whoami```
+
+<img src="pixel_robot.gif" align="center" width="300">
+<div id="badges" align="center">
+  <a href="https://www.linkedin.com/in/abdelmonaimbounite/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+
+</div>
