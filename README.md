@@ -4,10 +4,8 @@
   <img src="https://media.giphy.com/media/hu9xj9UtxpoY3oytsh/giphy.gif" width="100"/>
 </div>
 
-# Hi, I'm ```youssef bounite```!
+# Hi, I'm ```👋youssef bounite```!
 ***
-<h4 align="center">Hi 👋! My name is youssef bounite , from maroc</h4>
-
 ###
 
 <div align="center">
