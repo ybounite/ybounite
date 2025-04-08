@@ -53,7 +53,6 @@
   <img src="https://streak-stats.demolab.com?user=ybounite&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
 
-***
  ## ```whoami```
 
 <img src="pixel_robot.gif" align="center" width="300">
